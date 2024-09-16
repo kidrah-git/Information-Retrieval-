@@ -1,0 +1,15 @@
+Query: Champions Leauge
+  Document: result.txt, Similarity: 0.1291
+
+Query: Laliga
+  Document: result.txt, Similarity: 0.0913
+
+Query: Barcelona
+  Document: result.txt, Similarity: 0.0913
+
+Query: Cristiano Ronaldo
+  Document: result.txt, Similarity: 0.1291
+
+Query: RealMadrid
+  Document: result.txt, Similarity: 0.0913
+
